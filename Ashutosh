@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For My Baby ❤️</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: linear-gradient(to bottom right, #ff9a9e, #fad0c4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .card {
+      background: white;
+      padding: 25px;
+      border-radius: 20px;
+      width: 90%;
+      max-width: 420px;
+      text-align: center;
+      box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+    }
+    h1 {
+      color: #ff3366;
+    }
+    p {
+      font-size: 18px;
+      color: #444;
+      line-height: 1.6;
+    }
+    button {
+      margin-top: 20px;
+      padding: 12px 25px;
+      font-size: 18px;
+      border: none;
+      border-radius: 25px;
+      background: #ff3366;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #e62e5c;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="card">
+    <h1>Hey Baby 💖</h1>
+
+    <p>
+      I don’t know how to code perfectly,<br>
+      but I know how to love you with my whole heart.
+    </p>
+
+    <p>
+      This little page is just my way of telling you<br>
+      how special you are to me.
+    </p>
+
+    <p>
+      You are my comfort, my smile,<br>
+      and my favorite person. Always.
+    </p>
+
+    <button onclick="alert('YAYYY 🥹❤️ I love you forever!')">
+      Will you be my Valentine? 💘
+    </button>
+  </div>
+
+</body>
+</html>
