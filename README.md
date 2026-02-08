@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>For My Baby ❤️</title>
+  <title>For My Love ❤️</title>
   <style>
     body {
       background: linear-gradient(to bottom right, #ffb6c1, #ffe4e1);
-      font-family: 'Segoe UI', sans-serif;
+      font-family: Arial, sans-serif;
       text-align: center;
       padding: 30px;
     }
     .card {
       background: white;
       border-radius: 20px;
-      padding: 30px;
-      max-width: 400px;
+      padding: 25px;
+      max-width: 420px;
       margin: auto;
       box-shadow: 0 10px 25px rgba(0,0,0,0.2);
     }
@@ -23,20 +23,7 @@
     p {
       font-size: 18px;
       color: #444;
-      line-height: 1.6;
-    }
-    button {
-      background: #ff3366;
-      color: white;
-      border: none;
-      padding: 12px 25px;
-      border-radius: 25px;
-      font-size: 18px;
-      cursor: pointer;
-      margin-top: 20px;
-    }
-    button:hover {
-      background: #e62e5c;
+      line-height: 1.7;
     }
   </style>
 </head>
@@ -44,26 +31,33 @@
 <body>
 
   <div class="card">
-    <h1>Hey My Baby ❤️</h1>
+    <h1>Hey my love ❤️</h1>
+
+    <p>I don’t know how to code perfectly,</p>
+    <p>but I know how to love you with my whole heart.</p>
 
     <p>
-      From the moment you came into my life,  
-      everything became softer, warmer, and happier.
+      This little page is just a small way of telling you  
+      how much you mean to me.
     </p>
 
     <p>
-      This little page is just my way of saying  
-      how special you are to me 💕  
-      Even when I can’t say it enough in words.
+      You are my comfort on hard days,  
+      my smile on normal days,  
+      and my happiness on the best days.
     </p>
 
     <p>
-      So I have one important question for you…
+      With you, everything feels right.  
+      Every moment, every laugh, every silence.
     </p>
 
-    <button onclick="alert('YAYYY 🥹❤️ I promise to make you smile every day!')">
-      Will you be my Valentine? 💖
-    </button>
+    <p>
+      So today, and every day after…  
+      I choose you.
+    </p>
+
+    <h2>Will you be my Valentine, my love? 💖</h2>
   </div>
 
 </body>
